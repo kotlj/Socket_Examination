@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Socket_Examination\Socket_Examination\bin\Debug\Socket_Examination.exe.config
+C:\Users\Admin\source\repos\Socket_Examination\Socket_Examination\bin\Debug\Socket_Examination.exe
+C:\Users\Admin\source\repos\Socket_Examination\Socket_Examination\bin\Debug\Socket_Examination.pdb
+C:\Users\Admin\source\repos\Socket_Examination\Socket_Examination\obj\Debug\Socket_Examination.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Socket_Examination\Socket_Examination\obj\Debug\Socket_Examination.Form1.resources
+C:\Users\Admin\source\repos\Socket_Examination\Socket_Examination\obj\Debug\Socket_Examination.Properties.Resources.resources
+C:\Users\Admin\source\repos\Socket_Examination\Socket_Examination\obj\Debug\Socket_Examination.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Socket_Examination\Socket_Examination\obj\Debug\Socket_Examination.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Socket_Examination\Socket_Examination\obj\Debug\Socket_Examination.exe
+C:\Users\Admin\source\repos\Socket_Examination\Socket_Examination\obj\Debug\Socket_Examination.pdb
